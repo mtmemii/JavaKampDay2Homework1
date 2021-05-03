@@ -1,1 +1,1 @@
-# JavaKampDay2Homework1
+# Java Kampı 2. Gün 1. Ödev Projesi.
